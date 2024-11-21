@@ -1,0 +1,3 @@
+﻿  Node.cpp
+C:\Users\varga\Documents\GitHub\CSC122 - week 1\links-in-a-chain-vs25965-1\CSC122_Links\Node.cpp(31): warning C4715: 'Node::getNodeAt': not all control paths return a value
+  CSC122_Links.vcxproj -> C:\Users\varga\Documents\GitHub\CSC122 - week 1\links-in-a-chain-vs25965-1\CSC122_Links\x64\Debug\CSC122_Links.exe
